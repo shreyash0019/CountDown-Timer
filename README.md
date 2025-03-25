@@ -32,6 +32,4 @@ A simple countdown timer that counts down to a specific date and time. Users can
 2. Click the "Start Countdown" button to start the countdown.
 3. The remaining time will be displayed in days, hours, minutes, and seconds.
 
-## License
 
-This project is licensed under the MIT License.
